@@ -1,0 +1,6 @@
+pydantic-ai-slim[openai]==2.66.0
+python-dotenv>=1.0.1
+pypdf>=5.0
+beautifulsoup4>=4.12
+tiktoken>=0.8
+reportlab>=4.0  # only for make_attacks.py (Problem 7)

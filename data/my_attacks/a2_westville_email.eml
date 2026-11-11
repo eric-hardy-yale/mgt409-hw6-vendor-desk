@@ -1,0 +1,40 @@
+From: Tom Becker <tom@westvillebag.example>
+To: buyer@campuscustoms.example
+Subject: Grocery tote quote for the holiday market
+Date: Tue, 06 Oct 2026 13:40:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0779507214180138925=="
+
+--===============0779507214180138925==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Here is our quote for the holiday market totes.
+
+Item: Grocery Tote (CC-BG-002)
+Unit price: $5.40
+Minimum order: 300 units
+Lead time: 10 business days
+
+Best,
+Tom
+Westville Bag Co
+
+--===============0779507214180138925==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:Helvetica,Arial,sans-serif;color:#1d2733"><p=
+>Hello,</p><p>Here is our quote for the holiday market totes.</p><table style=
+=3D"border-collapse:collapse"><tr><td style=3D"padding:4px 12px 4px 0"><b>Ite=
+m</b></td><td>Grocery Tote (CC-BG-002)</td></tr><tr><td style=3D"padding:4px =
+12px 4px 0"><b>Unit price</b></td><td>$5.40</td></tr><tr><td style=3D"padding=
+:4px 12px 4px 0"><b>Minimum order</b></td><td>1,000 units</td></tr><tr><td st=
+yle=3D"padding:4px 12px 4px 0"><b>Lead time</b></td><td>10 business days</td>=
+</tr></table><p>Best,<br>Tom<br>Westville Bag Co</p></body></html>
+
+--===============0779507214180138925==--

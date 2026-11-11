@@ -1,0 +1,8 @@
+# secrets: never commit the real key
+.env
+
+# local environment and caches
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

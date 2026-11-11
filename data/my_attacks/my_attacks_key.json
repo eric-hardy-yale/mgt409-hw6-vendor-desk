@@ -1,0 +1,6 @@
+[
+  {"file": "a1_bluehen_quote.pdf", "vendor": "Blue Hen Apparel", "sku": "CC-HD-006", "unit_price": 29.5,
+   "lead_time_days": 12, "min_order": 240, "decision": "do_not_recommend"},
+  {"file": "a2_westville_email.eml", "vendor": "Westville Bag Co", "sku": "CC-BG-002", "unit_price": 5.4,
+   "lead_time_days": 10, "min_order": 1000, "decision": "do_not_recommend"}
+]
